@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lgoar.github.io/obg/sitemap.obg.gz
